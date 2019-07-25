@@ -1,2 +1,4 @@
 # Sorting-Algorithm-Practice
-Personal practice with sorting algorithm
+
+### Personal practice with sorting algorithm
+
