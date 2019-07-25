@@ -1,6 +1,6 @@
 # Sorting-Algorithm-Practice
 
-### Personal practice with sorting algorithm
+### *Sorting Algorithms Practice*
 
 - Bubble Sort Algorithm
 	
