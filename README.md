@@ -14,3 +14,9 @@
 	
 	[Selection Sort Tutorial](https://monsterhxw.github.io/posts/sorting-algorithms-selection-sort/)
 
+- Insertion Sort Algorithm
+	
+	[C Program for implementation of Insertion Sort](https://github.com/monsterhxw/Sorting-Algorithm-Practice/blob/master/InsertionSort/main.c)
+	
+	[Insertion Sort Tutorial](https://monsterhxw.github.io/posts/sorting-algorithms-insertion-sort/)
+
