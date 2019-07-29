@@ -20,3 +20,9 @@
 	
 	[Insertion Sort Tutorial](https://monsterhxw.github.io/posts/sorting-algorithms-insertion-sort/)
 
+- Shell Sort Algorithm
+	
+	[C Program for implementation of Shell Sort](https://github.com/monsterhxw/Sorting-Algorithm-Practice/blob/master/ShellSort/main.c)
+	
+	[Shell Sort Tutorial](https://monsterhxw.github.io/posts/sorting-algorithms-shell-sort/)
+
