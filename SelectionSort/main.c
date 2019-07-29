@@ -7,7 +7,7 @@ void swap(int arr[], int i, int j) {
 }
 
 // Find the maximum element position in unsorted array
-int findMinimumPos(int arr[], int n) {
+int findMaximumPos(int arr[], int n) {
     int max = arr[0];
     int pos = 0;
     int i;
@@ -23,7 +23,7 @@ int findMinimumPos(int arr[], int n) {
 void selectionSort(int arr[], int n) {
     // 从右到左循环遍历 n - 1 次数组
     while (n > 1) {
-        int pos = findMinimumPos(arr, n);
+        int pos = findMaximumPos(arr, n);
         swap(arr, pos, n - 1);
         n--;
     }
