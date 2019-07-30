@@ -28,12 +28,16 @@ void insertionSort(int arr[], int n, int gap) {
 }
 
 void shellSort(int arr[], int n) {
-    int gap = n / 2;
+    int gap = 1;
+    // Knuth增量序列递推式：h(1) = 1, h(i) = 3 * h(i-1) + 1
+    while (gap < n) {
+        gap = gap * 3 + 1;
+    }
     // 间隔增量 gap 每次变小，直到为 1
     while (gap > 0) {
         // 进行插入排序，从每个分组的第 gap 个元素开始，而不是从它的第 1 个元素开始
         insertionSort(arr, n, gap);
-        gap /= 2;
+        gap = (gap - 1) / 3;
     }
 }
 
