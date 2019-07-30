@@ -51,7 +51,7 @@ void printArray(int arr[], int n) {
 }
 
 int main() {
-    int arr[] = {12, 34, 54, 2, 3};
+    int arr[] = {14, 18, 19, 37, 23, 40, 29, 30, 11};
     int n = sizeof(arr) / sizeof(arr[0]);
     printf("Array before sorting: \n");
     printArray(arr, n);
