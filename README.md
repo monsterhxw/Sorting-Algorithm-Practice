@@ -28,7 +28,7 @@
 
 - Heap Sort Algorithm
 	
-	[C Program for implementation of Heap Sort](https://github.com/monsterhxw/Sorting-Algorithm-Practice/tree/master/HeapSort)
+	[C Program for implementation of Heap Sort](https://github.com/monsterhxw/Sorting-Algorithm-Practice/tree/master/HeapSort/main.c)
 	
 	[Heap Sort Tutorial](https://monsterhxw.github.io/posts/sorting-algorithms-heap-sort/)
 
