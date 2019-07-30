@@ -30,5 +30,5 @@
 	
 	[C Program for implementation of Heap Sort](https://github.com/monsterhxw/Sorting-Algorithm-Practice/tree/master/HeapSort)
 	
-	[Shell Sort Tutorial](https://monsterhxw.github.io/posts/sorting-algorithms-heap-sort/)
+	[Heap Sort Tutorial](https://monsterhxw.github.io/posts/sorting-algorithms-heap-sort/)
 
