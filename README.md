@@ -30,5 +30,10 @@
 	
 	[C Program for implementation of Heap Sort](https://github.com/monsterhxw/Sorting-Algorithm-Practice/tree/master/HeapSort/main.c)
 	
-	[Heap Sort Tutorial](https://monsterhxw.github.io/posts/sorting-algorithms-heap-sort/)
+	Heap Sort Tutorial : // TODO
 
+- Merge Sort Algorithm
+	
+	[C Program for implementation of Merge Sort](https://github.com/monsterhxw/Sorting-Algorithm-Practice/tree/master/MergeSort/main.c)
+	
+	Merge Sort Tutorial : // TODO
