@@ -37,3 +37,9 @@
 	[C Program for implementation of Merge Sort](https://github.com/monsterhxw/Sorting-Algorithm-Practice/tree/master/MergeSort/main.c)
 	
 	Merge Sort Tutorial : // TODO
+	
+- Quick Sort Algorithm
+	
+	[C Program for implementation of Quick Sort](https://github.com/monsterhxw/Sorting-Algorithm-Practice/blob/master/QuickSort/main.c)
+	
+	Quick Sort Tutorial : // TODO
