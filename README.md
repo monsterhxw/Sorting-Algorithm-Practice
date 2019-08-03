@@ -43,3 +43,9 @@
 	[C Program for implementation of Quick Sort](https://github.com/monsterhxw/Sorting-Algorithm-Practice/blob/master/QuickSort/main.c)
 	
 	Quick Sort Tutorial : // TODO
+
+- Counting Sort Algorithm
+	
+	[C Program for implementation of Counting Sort](https://github.com/monsterhxw/Sorting-Algorithm-Practice/blob/master/CountingSort/main.c)
+	
+	Counting Sort Tutorial : // TODO
